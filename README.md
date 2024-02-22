@@ -1,7 +1,7 @@
 # _Repositorio para la tesis de la Maestría en Ciencia de Datos de UdeSA_
 ## Inmigración en películas: un análisis utilizando aprendizaje automático a partir de los subtítulos
 
-Este repositorio contiene buena parte del código que se utilizó para la tesis. Incluye los siguientes iPython Notebooks correspondientes a distintas partes del proceso, en el siguiente orden:
+Este repositorio contiene buena parte del código que se utilizó para la tesis. Incluye los siguientes iPython Notebooks correspondientes a distintas partes del proceso, en orden:
 
 1. Datos. 
     - **scraping_yify.ipynb**: scrapea y guarda subtítulos.
